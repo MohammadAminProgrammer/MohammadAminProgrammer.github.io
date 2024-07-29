@@ -293,10 +293,6 @@ let website = {
         "fa": "نمونه کارها",
         "en": "Works"
     },
-    "desc-ab a": {
-        "fa": "پیشرفته",
-        "en": "Advanced"
-    },
     "tech-btn": {
         "fa": "تکنولوژی‌ها",
         "en": "Technologies"
